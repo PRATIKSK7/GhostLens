@@ -1,5 +1,27 @@
 # 👻 GhostLens - Advanced AI Vision System
-**Author**: [Pratik Kanoj (PRATIKSK7)](https://github.com/PRATIKSK7)
+
+---
+
+## 👱‍♂️ Author Section
+
+**Pratik S Kanoj**  
+**Artificial Intelligence & Data Science Engineer**
+
+I am a passionate AI Engineer specializing in Machine Learning, Computer Vision, and full-stack integration. I build robust, production-ready AI systems that solve real-world problems. My expertise lies in taking complex Deep Learning architectures and deploying them into scalable, user-centric web applications.
+
+**Technical Expertise:**
+- **AI & Data Science:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Data Science.
+- **Backend & Cloud:** Python, FastAPI, Docker, RESTful APIs.
+- **Frontend:** React, JavaScript, HTML, CSS, Streamlit.
+
+**Connect with me:**
+- 💼 **LinkedIn:** [Pratik S Kanoj](https://www.linkedin.com/in/pratik-s-kanoj-a81432300/)
+- 🐙 **GitHub:** [github.com/PRATIKSK7](https://github.com/PRATIKSK7)
+- ✉️ **Email:** pratiksk0077@gmail.com
+
+*If you found this project interesting or helpful, please consider giving it a ⭐ on GitHub!*
+
+---
 
 GhostLens is a state-of-the-art, real-time AI vision and augmented reality (AR) pipeline built in Python. Powered by Streamlit, MediaPipe, and OpenCV, it transforms your standard webcam into a high-performance gesture recognition and reality-bending tool with blazing-fast latencies (<35ms).
 
@@ -31,21 +53,14 @@ GhostLens was purpose-built to help you ace your interviews without distractions
 
 Check out GhostLens manipulating reality in real-time:
 
-### Background Blur & Gesture Control
-![Background Blur](screenshots/ghostlens_20260701_171217.jpg)
-*Open Palm gesture detected and triggering background blur.*
-
-### Gesture-Triggered Screenshots (Thumbs Up)
-![Thumbs Up Detection](screenshots/ghostlens_20260701_171226.jpg)
-*A simple "Thumbs Up" instantly snaps a screenshot!*
-
-### Real-Time Air Drawing
-![Air Drawing](screenshots/ghostlens_20260701_171229.jpg)
-*Pointing your index finger lets you draw directly on the live feed.*
-
-### Full Invisibility Cloak
-![Invisibility Mode](screenshots/ghostlens_20260701_171232.jpg)
-*Full background segmentation removing the subject from the frame.*
+<div align="center">
+  <img src="screenshots/demo_1.png" width="800">
+  <img src="screenshots/demo_2.png" width="800">
+  <img src="screenshots/demo_3.png" width="800">
+  <img src="screenshots/demo_4.png" width="800">
+  <img src="screenshots/demo_5.png" width="800">
+  <img src="screenshots/demo_6.png" width="800">
+</div>
 
 ---
 
@@ -116,4 +131,4 @@ GhostLens can be controlled fully via gestures or through the intuitive Streamli
 
 ---
 
-### Built with ❤️ using Python, OpenCV, MediaPipe, and Streamlit.
+*Built with ❤️ using Python, OpenCV, and MediaPipe.*

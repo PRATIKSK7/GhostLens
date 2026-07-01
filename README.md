@@ -1,27 +1,5 @@
 # 👻 GhostLens - Advanced AI Vision System
 
----
-
-## 👱‍♂️ Author Section
-
-**Pratik S Kanoj**  
-**Artificial Intelligence & Data Science Engineer**
-
-I am a passionate AI Engineer specializing in Machine Learning, Computer Vision, and full-stack integration. I build robust, production-ready AI systems that solve real-world problems. My expertise lies in taking complex Deep Learning architectures and deploying them into scalable, user-centric web applications.
-
-**Technical Expertise:**
-- **AI & Data Science:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Data Science.
-- **Backend & Cloud:** Python, FastAPI, Docker, RESTful APIs.
-- **Frontend:** React, JavaScript, HTML, CSS, Streamlit.
-
-**Connect with me:**
-- 💼 **LinkedIn:** [Pratik S Kanoj](https://www.linkedin.com/in/pratik-s-kanoj-a81432300/)
-- 🐙 **GitHub:** [github.com/PRATIKSK7](https://github.com/PRATIKSK7)
-- ✉️ **Email:** pratiksk0077@gmail.com
-
-*If you found this project interesting or helpful, please consider giving it a ⭐ on GitHub!*
-
----
 
 GhostLens is a state-of-the-art, real-time AI vision and augmented reality (AR) pipeline built in Python. Powered by Streamlit, MediaPipe, and OpenCV, it transforms your standard webcam into a high-performance gesture recognition and reality-bending tool with blazing-fast latencies (<35ms).
 
@@ -59,7 +37,6 @@ Check out GhostLens manipulating reality in real-time:
   <img src="screenshots/demo_3.png" width="800">
   <img src="screenshots/demo_4.png" width="800">
   <img src="screenshots/demo_5.png" width="800">
-  <img src="screenshots/demo_6.png" width="800">
 </div>
 
 ---
@@ -128,6 +105,27 @@ GhostLens can be controlled fully via gestures or through the intuitive Streamli
 - Adjust **Blur Strength** dynamically to suit your environment.
 - Control **Drawing Lifespan** for how long your mid-air art persists (e.g., 5 Seconds, Infinite).
 - Enable **Face Follow Mode** to keep the camera tightly focused on you.
+
+---
+
+## 👱‍♂️ Author Section
+
+**Pratik S Kanoj**  
+**Artificial Intelligence & Data Science Engineer**
+
+I am a passionate AI Engineer specializing in Machine Learning, Computer Vision, and full-stack integration. I build robust, production-ready AI systems that solve real-world problems. My expertise lies in taking complex Deep Learning architectures and deploying them into scalable, user-centric web applications.
+
+**Technical Expertise:**
+- **AI & Data Science:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Data Science.
+- **Backend & Cloud:** Python, FastAPI, Docker, RESTful APIs.
+- **Frontend:** React, JavaScript, HTML, CSS, Streamlit.
+
+**Connect with me:**
+- 💼 **LinkedIn:** [Pratik S Kanoj](https://www.linkedin.com/in/pratik-s-kanoj-a81432300/)
+- 🐙 **GitHub:** [github.com/PRATIKSK7](https://github.com/PRATIKSK7)
+- ✉️ **Email:** pratiksk0077@gmail.com
+
+*If you found this project interesting or helpful, please consider giving it a ⭐ on GitHub!*
 
 ---
 

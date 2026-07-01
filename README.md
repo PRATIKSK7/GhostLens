@@ -1,6 +1,16 @@
 # 👻 GhostLens - Advanced AI Vision System
+**Author**: [Pratik Kanoj (PRATIKSK7)](https://github.com/PRATIKSK7)
 
 GhostLens is a state-of-the-art, real-time AI vision and augmented reality (AR) pipeline built in Python. Powered by Streamlit, MediaPipe, and OpenCV, it transforms your standard webcam into a high-performance gesture recognition and reality-bending tool with blazing-fast latencies (<35ms).
+
+---
+
+## 👔 Interview Privacy & Professional Focus
+
+GhostLens was purpose-built to help you ace your interviews without distractions:
+- **Zero Background Clutter:** The *Background Blur* and *Invisibility* modes completely eliminate messy rooms or unexpected background events.
+- **Maintain Professionalism:** *Primary Face Lock* and *Blur Others* ensure that the camera's AI prioritizes you over anyone else accidentally walking into the frame.
+- **Confident Presentations:** Look clean, focused, and professional during any video call, guaranteeing that interviewers see only what matters: you.
 
 ---
 
@@ -22,19 +32,19 @@ GhostLens is a state-of-the-art, real-time AI vision and augmented reality (AR) 
 Check out GhostLens manipulating reality in real-time:
 
 ### Background Blur & Gesture Control
-![Background Blur](/Users/pratikskanoj/GhostLens/screenshots/ghostlens_20260701_171217.jpg)
+![Background Blur](screenshots/ghostlens_20260701_171217.jpg)
 *Open Palm gesture detected and triggering background blur.*
 
 ### Gesture-Triggered Screenshots (Thumbs Up)
-![Thumbs Up Detection](/Users/pratikskanoj/GhostLens/screenshots/ghostlens_20260701_171226.jpg)
+![Thumbs Up Detection](screenshots/ghostlens_20260701_171226.jpg)
 *A simple "Thumbs Up" instantly snaps a screenshot!*
 
 ### Real-Time Air Drawing
-![Air Drawing](/Users/pratikskanoj/GhostLens/screenshots/ghostlens_20260701_171229.jpg)
+![Air Drawing](screenshots/ghostlens_20260701_171229.jpg)
 *Pointing your index finger lets you draw directly on the live feed.*
 
 ### Full Invisibility Cloak
-![Invisibility Mode](/Users/pratikskanoj/GhostLens/screenshots/ghostlens_20260701_171232.jpg)
+![Invisibility Mode](screenshots/ghostlens_20260701_171232.jpg)
 *Full background segmentation removing the subject from the frame.*
 
 ---
@@ -74,7 +84,7 @@ graph TD
 ### Installation
 1. Clone the repository and navigate to the directory:
    ```bash
-   git clone https://github.com/yourusername/GhostLens.git
+   git clone https://github.com/PRATIKSK7/GhostLens.git
    cd GhostLens
    ```
 

@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+mediapipe-silicon
+numpy==1.26.4
+streamlit
+psutil

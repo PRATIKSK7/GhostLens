@@ -1,5 +1,10 @@
+<div align="center">
+
+<img src="screenshots/hero-banner.png" alt="GhostLens AI Vision Banner" width="100%">
+
 # 👻 GhostLens - Advanced AI Vision System
 
+</div>
 
 GhostLens is a state-of-the-art, real-time AI vision and augmented reality (AR) pipeline built in Python. Powered by Streamlit, MediaPipe, and OpenCV, it transforms your standard webcam into a high-performance gesture recognition and reality-bending tool with blazing-fast latencies (<35ms).
 

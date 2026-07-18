@@ -42,6 +42,8 @@ Check out GhostLens manipulating reality in real-time:
   <img src="screenshots/demo_3.png" width="800">
   <img src="screenshots/demo_4.png" width="800">
   <img src="screenshots/demo_5.png" width="800">
+  <img src="screenshots/demo_6.png" width="800">
+  <img src="screenshots/demo_7.png" width="800">
 </div>
 
 ---

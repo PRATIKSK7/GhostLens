@@ -11,7 +11,7 @@ class BackgroundCapture:
             detectShadows=False
         )
     
-    def capture(self, cap, num_frames=60):
+    def capture(self, cap, num_frames=60, use_cv2_window=True):
         """Capture clean background - user must stay out of frame"""
         print("\n" + "="*50)
         print("📸 BACKGROUND CAPTURE")
@@ -26,8 +26,11 @@ class BackgroundCapture:
                     f"Stay out of frame! Capturing in {i}...",
                     (50, 240), cv2.FONT_HERSHEY_SIMPLEX,
                     1.0, (0, 255, 255), 2)
-                cv2.imshow("PhantomFrame - Setup", display)
-                cv2.waitKey(1000)
+                if use_cv2_window:
+                    cv2.imshow("PhantomFrame - Setup", display)
+                    cv2.waitKey(1000)
+                else:
+                    time.sleep(1)
         
         # Warm up camera
         print("⏳ Warming up camera...")
@@ -41,9 +44,13 @@ class BackgroundCapture:
             ret, frame = cap.read()
             if ret and frame is not None:
                 frames.append(frame.astype(np.float32))
-            cv2.waitKey(30)
+            if use_cv2_window:
+                cv2.waitKey(30)
+            else:
+                time.sleep(0.03)
         
-        cv2.destroyWindow("PhantomFrame - Setup")
+        if use_cv2_window:
+            cv2.destroyWindow("PhantomFrame - Setup")
         
         if not frames:
             raise RuntimeError("❌ Could not capture background!")

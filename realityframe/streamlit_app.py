@@ -36,7 +36,7 @@ if not st.session_state.bg_captured:
     st.warning("Please step out of frame. We need a clean background!")
     if st.button("Start Background Capture"):
         with st.spinner("Capturing 30 frames (Wait 1 second)..."):
-            bg = pf.bg_capture.capture(cap, num_frames=30)
+            bg = pf.bg_capture.capture(cap, num_frames=30, use_cv2_window=False)
             st.session_state.bg_captured = True
             st.rerun()
     st.stop()

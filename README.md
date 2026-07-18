@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="screenshots/hero-banner.png" alt="GhostLens AI Vision Banner" width="100%">
-
 # 👻 GhostLens - Advanced AI Vision System
+
+<img src="screenshots/hero-banner.png" alt="GhostLens AI Vision Banner" width="100%">
 
 </div>
 
